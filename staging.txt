@@ -1,1 +1,2 @@
 stagingファイルの編集v0.0.4
+master->stagingのため v0.1.2
